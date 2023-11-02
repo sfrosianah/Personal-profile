@@ -12,4 +12,10 @@ handlers:
   upload: www/style.css
 
 - url: /
+  static_files: images/girl.png
+  upload: images/girl.png
+
+- url: /
   static_dir: www
+  static_dir: images
+  
