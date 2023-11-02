@@ -1,55 +1,16 @@
  
 <!-- Project Title -->
 # Profile Card
-🚀 A Stunning Profile Card with Glassmorphism and Neumorphism Effects! 🌟
  
+## Kriteria 1: Hosting Aplikasi Profile
+Tentunya Anda sudah belajar bagaimana cara membuat Compute Engine instance, baik melalui Google Cloud console maupun gcloud CLI di Cloud Shell. Anda juga sudah paham bagaimana cara menginstal web server di sebuah VM. Nah, sekarang tugas Anda adalah meng-hosting aplikasi Profile buatan sendiri di Compute Engine. 
 
-<!-- Project Purpose -->
-## Project Purpose 🎯
+Silakan Anda bereksplorasi sedemikian rupa agar aplikasi yang Anda hosting menampilkan informasi mengenai profil Anda. Anda bisa menggunakan template atau merancangnya sendiri.
 
-Showcase your skills and attach all your social accounts with stunning glassmorphism and neumorphism effects. This responsive design is created using Figma and Photoshop and built with HTML, CSS, JavaScript, Bootstrap, and SCSS.
 
----
 
-<!-- Design Tools and Technologies -->
-## Design Tools and Technologies 🎨💻
-
-- **Design:** Figma, Photoshop
-- **Development:** HTML, CSS, JavaScript, Bootstrap, SCSS
-
----
-
-<!-- Live Project -->
-## Project Live Location 🌐
-
-👉 [Check out the live project here!](https://profilecard-swamithedev.vercel.app/)
-
----
-
-<!-- GitHub Repository -->
-## GitHub Repository 📁
-
-👉 [Explore the GitHub repository here!](https://github.com/SwamiTheDev/Profile_card)
-
----
-
-📧 **Get in Touch**
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
-
-🌟 **Portfolio**
-Discover more of our fantastic projects at [SwamiTheDev Portfolio](https://swamithedev.vercel.app). Your journey into the world of technology starts here!
-
-<!-- Thank You -->
-## Thanks for checking out this project! 👏
-
-If you found this project interesting or helpful, please consider giving it a ⭐ star. It means a lot!
-
----
-
-<!-- Hashtags -->
-## Hashtags 📌
-
-#ProfileCard #WebDesign #Glassmorphism #Neumorphism #HTML #CSS #JavaScript #Bootstrap #SCSS #swamithedev #swaminathanselvam #frondendproject #innovation
+## Kriteria 2: Aplikasi Menampilkan Gambar
+Aplikasi Profile yang Anda buat haruslah menampilkan gambar berupa foto profil yang disimpan di Cloud Storage. Anda juga boleh menambahkan gambar lain, misalnya banner ataupun background.
 
 ---
 ```
