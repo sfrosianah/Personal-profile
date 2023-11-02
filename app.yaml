@@ -11,8 +11,9 @@ handlers:
   static_files: www/style.css
   upload: www/style.css
   
-- url: /images
-  upload: images/girl.png
+- url: /
+  static_files: www/images/girl.png
+  upload: www/images/girl.png
 
 - url: /
   static_dir: www
