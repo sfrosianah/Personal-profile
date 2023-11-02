@@ -10,10 +10,9 @@ handlers:
 - url: /
   static_files: www/style.css
   upload: www/style.css
-
-- url: /
-  static_files: images/girl.png
-  upload: images/girl.png
+  
+- url: /images
+  static_dir: static/images
 
 - url: /
   static_dir: www
