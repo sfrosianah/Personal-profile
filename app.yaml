@@ -8,4 +8,8 @@ handlers:
   upload: www/index.html
 
 - url: /
+  static_files: www/style.css
+  upload: www/style.css
+
+- url: /
   static_dir: www
